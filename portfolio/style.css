@@ -1,0 +1,32 @@
+body {
+  padding-top: 4rem;
+  margin: 5em;
+  color: lightpink;
+  background-color: #F0FFF0;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 5.25rem;
+
+  line-height: inherit;
+  pink-space: nowrap;
+  color: lightgreen;
+}
+<h > {
+  color: lightblue;
+}
+
+p {
+  border: 6px solid;
+  border-style: solid;
+  border-color: lightyellow;
+}
+<div>{
+  color: lightgreen;
+}
